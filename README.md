@@ -1,19 +1,16 @@
-### Hi there 👋😊
+# Hi, Devs! 👋😊
 
-Sou formado em Sistemas de Informação pelas Faculdades Metropolitanas Unidas (FMU).
+### O meu nome é Anderson, Seja bem-vindo ao meu perfil do GitHub.
+- 🔰 Sou de São Paulo/SP, Brasil
+- ⚡ Apaixonado por Esporte e Tecnologia
+- 🧠 Estudante de Desenvolvimento de Software e formado em Sistemas de Informação pela Faculdades Metropolitanas Unidas (FMU).
+- 🏦 Atualmente trabalho como Analista de Supute tecnico em São Paulo/SP
 
-Meu interesse pela Tecnologia da Informação surgiu desde cedo, aos 12 anos, quando tive meu primeiro contato com um curso de informática. Desde então, minha paixão por esse campo só cresceu. Ao longo do tempo, busquei aprimorar meu conhecimento através de cursos em áreas como Hardware, Redes, Tecnologia da Informação e Pacote Office.
+#
 
-Minha trajetória profissional inclui experiência como suporte técnico, onde desempenhei papéis que iam desde o nível I até o nível III, abrangendo tanto aspectos de hardware quanto software. Durante minha atuação como Analista de Suporte Técnico Júnior, tive meu primeiro contato com programação, o que despertou minha paixão ao criar meu primeiro "Olá, mundo!".
-
-No momento, estou direcionando meus esforços para o mundo da programação, ficando fascinado com sua capacidade de transformar empresas e organizações. Enquanto continuo atuando como Analista de Suporte Técnico, estou constantemente estudando e desenvolvendo minhas habilidades para ingressar na área de programação e desenvolvimento.
-
-Atualmente, meu objetivo imediato é garantir uma posição na área de Back-end e, a longo prazo, me tornar um profissional Full Stack. Estou investindo em minha formação na área de Back-end por meio da [Cubos Academy](https://cubos.academy/), onde estou aprimorando minhas habilidades.
-
-Minhas áreas de interesse incluem Front End, Desenvolvimento de Software Back-end, e tecnologias como Node.js, Javascript, MySQL, Git e GitHub.
-
-### :calling: Contato
+### :calling: Como entrar em contato comigo:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-nazario/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://anderson.angelo1992@gmail.com)
 
 
 ### 🖥️ Hard Skills:
