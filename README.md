@@ -3,8 +3,6 @@
 ### O meu nome é Anderson, Seja bem-vindo ao meu perfil do GitHub.
 - 🔰 Sou de São Paulo/SP, Brasil
 - ⚡ Apaixonado por Esporte e Tecnologia
-- 🧠 Estudante de Desenvolvimento de Software e formado em Sistemas de Informação pela Faculdades Metropolitanas Unidas (FMU).
-- 🏦 Atualmente trabalho como Analista de Supute tecnico em São Paulo/SP
 
 #
 
