@@ -22,7 +22,10 @@
 ![github](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonNazario&theme=tokyonight&custom_title=Top%20%Linguagem)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonNazario&demo&theme=tokyonight&custom_title=Top%20%Linguagem)
+
+
 
 <!--
 **AndersonNazario/AndersonNazario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
